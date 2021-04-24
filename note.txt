@@ -4,3 +4,10 @@ Few things happened
 1. It automatically created new remote repo under you GitHub.com account
 Made the connection with your local git repo
 Added all your commits 
+
+Now our work will continue locally
+
+1. add a new file called note.txt
+2.commited locally
+3.we want the changed to be raflacted in remote repo so we push local commit to remote repo using push origin button
+4. Observed it has benn added in your repository under GitHub.com
